@@ -1,0 +1,43 @@
+C:\Users\ruzickat.04\source\repos\thing\thing\bin\Debug\thing.exe.config
+C:\Users\ruzickat.04\source\repos\thing\thing\bin\Debug\thing.exe
+C:\Users\ruzickat.04\source\repos\thing\thing\bin\Debug\thing.pdb
+C:\Users\ruzickat.04\source\repos\thing\thing\obj\Debug\thing.csprojAssemblyReference.cache
+C:\Users\ruzickat.04\source\repos\thing\thing\obj\Debug\thing.Form1.resources
+C:\Users\ruzickat.04\source\repos\thing\thing\obj\Debug\thing.Properties.Resources.resources
+C:\Users\ruzickat.04\source\repos\thing\thing\obj\Debug\thing.csproj.GenerateResource.cache
+C:\Users\ruzickat.04\source\repos\thing\thing\obj\Debug\thing.csproj.CoreCompileInputs.cache
+C:\Users\ruzickat.04\source\repos\thing\thing\obj\Debug\thing.exe
+C:\Users\ruzickat.04\source\repos\thing\thing\obj\Debug\thing.pdb
+C:\Users\tapic\Downloads\thing\thing\thing\bin\Debug\thing.exe.config
+C:\Users\tapic\Downloads\thing\thing\thing\bin\Debug\thing.exe
+C:\Users\tapic\Downloads\thing\thing\thing\bin\Debug\thing.pdb
+C:\Users\tapic\Downloads\thing\thing\thing\obj\Debug\thing.csproj.AssemblyReference.cache
+C:\Users\tapic\Downloads\thing\thing\thing\obj\Debug\thing.csproj.SuggestedBindingRedirects.cache
+C:\Users\tapic\Downloads\thing\thing\thing\obj\Debug\thing.Form1.resources
+C:\Users\tapic\Downloads\thing\thing\thing\obj\Debug\thing.Properties.Resources.resources
+C:\Users\tapic\Downloads\thing\thing\thing\obj\Debug\thing.csproj.GenerateResource.cache
+C:\Users\tapic\Downloads\thing\thing\thing\obj\Debug\thing.csproj.CoreCompileInputs.cache
+C:\Users\tapic\Downloads\thing\thing\thing\obj\Debug\thing.exe
+C:\Users\tapic\Downloads\thing\thing\thing\obj\Debug\thing.pdb
+C:\Users\ALFA\Desktop\thing\thing\thing\obj\Debug\thing.csproj.AssemblyReference.cache
+C:\Users\ALFA\Desktop\thing\thing\thing\obj\Debug\thing.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALFA\Desktop\thing\thing\thing\obj\Debug\thing.Form1.resources
+C:\Users\ALFA\Desktop\thing\thing\thing\obj\Debug\thing.Properties.Resources.resources
+C:\Users\ALFA\Desktop\thing\thing\thing\obj\Debug\thing.csproj.GenerateResource.cache
+C:\Users\ALFA\Desktop\thing\thing\thing\obj\Debug\thing.csproj.CoreCompileInputs.cache
+C:\Users\ALFA\Desktop\thing\thing\thing\obj\Debug\thing.exe
+C:\Users\ALFA\Desktop\thing\thing\thing\obj\Debug\thing.pdb
+C:\Users\ALFA\Desktop\thing\thing\thing\bin\Debug\thing.exe.config
+C:\Users\ALFA\Desktop\thing\thing\thing\bin\Debug\thing.exe
+C:\Users\ALFA\Desktop\thing\thing\thing\bin\Debug\thing.pdb
+C:\Users\tapic\Downloads\thing (1)\thing\thing\bin\Debug\thing.exe.config
+C:\Users\tapic\Downloads\thing (1)\thing\thing\bin\Debug\thing.exe
+C:\Users\tapic\Downloads\thing (1)\thing\thing\bin\Debug\thing.pdb
+C:\Users\tapic\Downloads\thing (1)\thing\thing\obj\Debug\thing.csproj.AssemblyReference.cache
+C:\Users\tapic\Downloads\thing (1)\thing\thing\obj\Debug\thing.csproj.SuggestedBindingRedirects.cache
+C:\Users\tapic\Downloads\thing (1)\thing\thing\obj\Debug\thing.Form1.resources
+C:\Users\tapic\Downloads\thing (1)\thing\thing\obj\Debug\thing.Properties.Resources.resources
+C:\Users\tapic\Downloads\thing (1)\thing\thing\obj\Debug\thing.csproj.GenerateResource.cache
+C:\Users\tapic\Downloads\thing (1)\thing\thing\obj\Debug\thing.csproj.CoreCompileInputs.cache
+C:\Users\tapic\Downloads\thing (1)\thing\thing\obj\Debug\thing.exe
+C:\Users\tapic\Downloads\thing (1)\thing\thing\obj\Debug\thing.pdb
